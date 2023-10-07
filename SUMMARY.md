@@ -4,7 +4,6 @@
 
 * [Hưỡng Dẫn dự án massa](README.md)
 
-***
+## TESTNET
 
-* [TESTNET](testnet/README.md)
-  * [Erbie](testnet/erbie.md)
+* [Erbie](testnet/erbie.md)
