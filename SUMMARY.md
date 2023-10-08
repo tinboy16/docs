@@ -7,6 +7,8 @@
 ## TESTNET
 
 * [Erbie](testnet/erbie.md)
+* [Mantrachain](testnet/mantrachain/README.md)
+  * [Command](testnet/mantrachain/command.md)
 
 ## VM WARE
 

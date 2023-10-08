@@ -130,5 +130,4 @@ rm -rf erbie
 rm -rf erbie.sh
 rm -rf monitor.sh
 rm -rf .erbie
-
 ```
