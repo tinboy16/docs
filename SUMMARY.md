@@ -7,3 +7,7 @@
 ## TESTNET
 
 * [Erbie](testnet/erbie.md)
+
+## VM WARE
+
+* [Cài Ubuntu Server lên VM WARE](vm-ware/cai-ubuntu-server-len-vm-ware.md)
