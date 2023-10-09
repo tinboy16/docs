@@ -6,8 +6,8 @@
 
 ## TESTNET
 
+* [Erbie](testnet/erbie.md)
 * [Hướng dẫn chạy Node Erbie (SystemD)](testnet/huong-dan-chay-node-erbie-systemd.md)
-* [Guide to install AR io node](testnet/guide-to-install-ar-io-node.md)
 * [Mantrachain](testnet/mantrachain/README.md)
   * [Command](testnet/mantrachain/command.md)
 

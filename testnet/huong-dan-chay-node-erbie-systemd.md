@@ -1,9 +1,5 @@
 # Hướng dẫn chạy Node Erbie (SystemD)
 
-* Guide erbie official
-
-**Yêu cầu tối thiểu:**
-
 * CPU: Main frequency 2.9GHz, 4 cores or above CPU.
 * Memory: Capacity 8GB or more.
 * Hard Disk: Capacity 500GB or more.
