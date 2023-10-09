@@ -7,6 +7,7 @@
 ## TESTNET
 
 * [Erbie](testnet/erbie.md)
+* [Guide to install AR io node](testnet/guide-to-install-ar-io-node.md)
 * [Mantrachain](testnet/mantrachain/README.md)
   * [Command](testnet/mantrachain/command.md)
 
