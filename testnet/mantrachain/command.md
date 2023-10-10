@@ -1,5 +1,9 @@
 # Command
 
+tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
+
+X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
+
 Key management Add New Wallet
 
 ```
@@ -222,3 +226,4 @@ rm -rf $HOME/.mantrachain
 rm -rf $HOME/mantra.sh
 ```
 
+tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)

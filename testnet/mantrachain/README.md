@@ -1,8 +1,14 @@
 ---
-description: 'https://www.mantrachain.io/ port 111, chain id: mantrachain-1'
+description: >-
+  https://www.mantrachain.io/ port 111, chain id: mantrachain-1
+  https://t.me/VNBnodegroup
 ---
 
 # Mantrachain
+
+tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
+
+X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
 
 ## Automatic:
 
@@ -168,3 +174,5 @@ sed -i -e "s%^address = \"tcp://0.0.0.0:1317\"%address = \"tcp://0.0.0.0:${CUSTO
 sudo systemctl restart mantrachaind
 sudo journalctl -fu mantrachaind -o cat
 ```
+
+tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)

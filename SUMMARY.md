@@ -2,7 +2,7 @@
 
 ## Mainnet
 
-* [Hưỡng Dẫn dự án massa](README.md)
+* [Giới Thiệu](README.md)
 
 ## TESTNET
 

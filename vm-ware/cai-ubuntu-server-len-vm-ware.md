@@ -1,4 +1,12 @@
+---
+description: https://t.me/VNBnodegroup
+---
+
 # Cài Ubuntu Server lên VM WARE
+
+tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
+
+X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
 
 ### 1. Ubuntu Server
 
@@ -157,3 +165,5 @@ Hoặc sử dụng lệnh **"ifconfig"** để kiểm tra địa chỉ **IP** c�
 **Putty** là một công cụ cho phép bạn kết nối từ xa vào **Ubuntu Server**, và gửi các lệnh tới **Ubuntu Server**.
 
 ![](https://s1.o7planning.com/web-rs/web-image/vi/arf-1089054-vi.webp)
+
+tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)

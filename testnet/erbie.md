@@ -1,4 +1,12 @@
+---
+description: https://t.me/VNBnodegroup
+---
+
 # Erbie
+
+tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
+
+X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
 
 * Guide erbie official
 
