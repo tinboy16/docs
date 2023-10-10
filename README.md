@@ -9,7 +9,3 @@ Telegram news channel: [https://VNBnode\_news](https://t.me/+IpfWe\_pX7UlkMzY1)
 Web: [https://VNBnode.com](https://vnbnode.com)&#x20;
 
 VNBnode chuyên tìm kiếm các kèo chạy node resreach các dự án xịn
-
-tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
-
-X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
