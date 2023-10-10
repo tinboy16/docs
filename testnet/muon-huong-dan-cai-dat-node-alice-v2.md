@@ -102,18 +102,18 @@ X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
    1.  Truy cập dashboard và click “Get Start”
 
        <figure><img src="../.gitbook/assets/87d57557-cee9-45b2-bec8-14a524f6cef0_2120x1257.webp" alt=""><figcaption></figcaption></figure>
-   2. Claim Node drop![](../.gitbook/assets/5a0e1d47-0f57-482b-9062-37870a9e10c2\_1116x946.webp)
-   3. Verify node![](<../.gitbook/assets/f4a69666-62ac-4f40-94f3-e40e54543e11\_1100x990 (1).webp>)
-   4. Claim![](../.gitbook/assets/824b583f-623c-4477-a0a5-9fa86ab81cfa\_1128x1001.webp)
-   5. Select » Bon ALICE![](../.gitbook/assets/be9867cb-11ab-48fd-9a8a-3e9b6ac4dc69\_1522x750.webp)![](../.gitbook/assets/b1501422-d480-44e6-9ef1-4ee6a6d71f27\_704x444.webp)
-   6. Approve và Thành công sẽ có thông báo như ảnh.![](../.gitbook/assets/ed5ca773-5570-403b-bb90-d7bb78b9256b\_1506x713.webp)![](<../.gitbook/assets/8b7aac3c-285e-4bfd-b995-604e915ae128\_1459x812 (1).webp>)![](<../.gitbook/assets/d4fb7148-29bd-4e90-ad16-84005db87958\_1857x627 (1).webp>)
+   2. Claim Node drop
+   3. Verify node
+   4. Claim
+   5. Select » Bon ALICE
+   6. Approve và Thành công sẽ có thông báo như ảnh.
    7.  **Verify Node**
 
        Sau khi add Node vào dashboard các bạn sẽ nhìn thấy Node: “_Not Verify_”. Click vào “_Go to verification center_” và lần lượt verify từng cách một. Như tôi chỉ verify đc 4/6 cách.
 
        <figure><img src="../.gitbook/assets/f5bc7603-b159-4bc8-8f15-47b27b4fdf52_1914x801.webp" alt=""><figcaption></figcaption></figure>
 
-       ![](../.gitbook/assets/2be75346-f0eb-4232-8eef-6997f2ff5bbf\_1928x801.webp)![](../.gitbook/assets/bef181ae-7b25-4889-b5c7-23fe427ea638\_1953x820.webp)![](../.gitbook/assets/8220f1f8-fe68-45a9-b2de-d9a6c86bb97d\_1849x749.webp)Nếu thấy bài viết có ích, các bạn hãy Share bài viết để nhóm VNBNodes có động lực viết các bài viết có chất lượng cho cộng đồng.
+       Nếu thấy bài viết có ích, các bạn hãy Share bài viết để nhóm VNBNodes có động lực viết các bài viết có chất lượng cho cộng đồng.
 
        Hãy tham gia Telegram để nhận được thông tin Testnet + bài viết nghiên cứu dự án sớm nhất: [https://t.me/Vnbnode](https://t.me/Vnbnode)
 
