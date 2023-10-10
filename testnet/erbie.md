@@ -1,7 +1,3 @@
----
-description: https://t.me/VNBnodegroup
----
-
 # Erbie
 
 tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
@@ -139,3 +135,11 @@ rm -rf erbie.sh
 rm -rf monitor.sh
 rm -rf .erbie
 ```
+
+Visit our communities:
+
+Telegram group chat: [https://VNBnodechat](https://t.me/+4aLsnP6JHhY4YTY1)
+
+Telegram news channel: [https://VNBnode\_news](https://t.me/+IpfWe\_pX7UlkMzY1)
+
+Web: [https://VNBnode.com](https://vnbnode.com)&#x20;

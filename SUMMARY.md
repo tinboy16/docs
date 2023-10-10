@@ -2,7 +2,7 @@
 
 ## Mainnet
 
-* [Giới Thiệu](README.md)
+* [Giới thiệu](README.md)
 
 ## TESTNET
 
@@ -12,6 +12,10 @@
   * [Command](testnet/mantrachain/command.md)
 * [Guide to install AR io node](testnet/guide-to-install-ar-io-node.md)
 * [MUON: Hướng dẫn cài đặt Node Alice-v2](testnet/muon-huong-dan-cai-dat-node-alice-v2.md)
+
+***
+
+* [Guide to install Roller - Dymension](guide-to-install-roller-dymension.md)
 
 ## VM WARE
 

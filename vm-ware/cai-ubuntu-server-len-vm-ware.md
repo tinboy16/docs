@@ -1,7 +1,3 @@
----
-description: https://t.me/VNBnodegroup
----
-
 # Cài Ubuntu Server lên VM WARE
 
 tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
@@ -165,5 +161,13 @@ Hoặc sử dụng lệnh **"ifconfig"** để kiểm tra địa chỉ **IP** c�
 **Putty** là một công cụ cho phép bạn kết nối từ xa vào **Ubuntu Server**, và gửi các lệnh tới **Ubuntu Server**.
 
 ![](https://s1.o7planning.com/web-rs/web-image/vi/arf-1089054-vi.webp)
+
+Visit our communities:
+
+Telegram group chat: [https://VNBnodechat](https://t.me/+4aLsnP6JHhY4YTY1)
+
+Telegram news channel: [https://VNBnode\_news](https://t.me/+IpfWe\_pX7UlkMzY1)
+
+Web: [https://VNBnode.com](https://vnbnode.com)&#x20;
 
 tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
