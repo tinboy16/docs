@@ -1,5 +1,7 @@
 # MUON: Hướng dẫn cài đặt Node Alice-v2
 
+<figure><img src="../.gitbook/assets/a9948547-2d11-4652-96da-f1721994c1e0_1510x861.webp" alt=""><figcaption></figcaption></figure>
+
 tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
 
 X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
@@ -15,21 +17,27 @@ X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
 
     * Cài đặt một số gói cho phép cài đặt qua HTTPS
 
+    {% code overflow="wrap" %}
     ```
     sudo apt install apt-transport-https ca-certificates curl software-properties-common
     ```
+    {% endcode %}
 
     * Thêm khóa GPG của kho lưu trữ Docker
 
+    {% code overflow="wrap" %}
     ```
     curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
     ```
+    {% endcode %}
 
     * Thêm kho lưu trữ Docker vào APT source
 
+    {% code overflow="wrap" %}
     ```
     echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
     ```
+    {% endcode %}
 
     * Cài đặt package và thiết lập cài đặt Dockẻ từ kho lưu trữ chính:
 
@@ -49,56 +57,63 @@ X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
 
     * Kiểm tra trạng thái của Docker. Thấy ra màn hình như ảnh là ok.
 
-    ```
-    sudo systemctl status docker
-    ```
+    <pre><code><strong>sudo systemctl status docker
+    </strong></code></pre>
 
-    Ấn Q để thoát khỏi màn hình.
-3. **CÀI ĐẶT MUON NODE**
-   1.  Nếu đã cài đặt Muon Node thì cần Stop và remove node cũ
+    ![](../.gitbook/assets/293601cd-abf4-4f83-bf54-46466ea4d55b\_1559x347.webp)Ấn Q để thoát khỏi màn hình.
+3.  **CÀI ĐẶT MUON NODE**
 
-       ```
-       docker stop muon-node mongo redis
-       ```
+    1.  Nếu đã cài đặt Muon Node thì cần Stop và remove node cũ
 
-       ```
-       docker rm muon-node mongo redis
-       ```
-   2.  Kéo File _docker-compose.yml_ về + Pull image:
+        ```
+        docker stop muon-node mongo redis
+        ```
 
-       ```
-       curl -o docker-compose.yml https://raw.githubusercontent.com/muon-protocol/muon-node-js/alice-v2/docker-compose-pull.yml
-       ```
+        ```
+        docker rm muon-node mongo redis
+        ```
+    2.  Kéo File _docker-compose.yml_ về + Pull image:
 
-       ```
-       docker compose pull
-       ```
-   3.  RUN
+        {% code overflow="wrap" %}
+        ```
+        curl -o docker-compose.yml https://raw.githubusercontent.com/muon-protocol/muon-node-js/alice-v2/docker-compose-pull.yml
+        ```
+        {% endcode %}
 
-       ```
-       docker compose up -d
-       ```
-   4.  Xem kết quả:
+        <pre><code><strong>docker compose pull
+        </strong></code></pre>
+    3.  RUN
 
-       ```
-       curl http://localhost:8011/status
-       ```
+        ```
+        docker compose up -d
+        ```
+    4.  Xem kết quả:
 
-       Localhost là địa chỉ ip server của bạn. Ví dụ: curl _http://192.168.1.255:8011/status_
+        ```
+        curl http://localhost:8011/status
+        ```
 
-       Nếu thấy hiện ra dòng thông tin như ảnh là ok.
+        Localhost là địa chỉ ip server của bạn. Ví dụ: curl _http://192.168.1.255:8011/status_
+
+        Nếu thấy hiện ra dòng thông tin như ảnh là ok.
+
+    <figure><img src="../.gitbook/assets/794e7e3a-0a17-4339-a49b-b70473e68ef4_1515x182.webp" alt=""><figcaption></figcaption></figure>
 4. **THÊM NODE VÀO ALICE DASHBOARD**
-   1. Truy cập dashboard và click “Get Start”
-   2. Claim Node drop
-   3. Verify node
-   4. Claim
-   5. Select » Bon ALICE
-   6. Approve và Thành công sẽ có thông báo như ảnh.
+   1.  Truy cập dashboard và click “Get Start”
+
+       <figure><img src="../.gitbook/assets/87d57557-cee9-45b2-bec8-14a524f6cef0_2120x1257.webp" alt=""><figcaption></figcaption></figure>
+   2. Claim Node drop![](../.gitbook/assets/5a0e1d47-0f57-482b-9062-37870a9e10c2\_1116x946.webp)
+   3. Verify node![](<../.gitbook/assets/f4a69666-62ac-4f40-94f3-e40e54543e11\_1100x990 (1).webp>)
+   4. Claim![](../.gitbook/assets/824b583f-623c-4477-a0a5-9fa86ab81cfa\_1128x1001.webp)
+   5. Select » Bon ALICE![](../.gitbook/assets/be9867cb-11ab-48fd-9a8a-3e9b6ac4dc69\_1522x750.webp)![](../.gitbook/assets/b1501422-d480-44e6-9ef1-4ee6a6d71f27\_704x444.webp)
+   6. Approve và Thành công sẽ có thông báo như ảnh.![](../.gitbook/assets/ed5ca773-5570-403b-bb90-d7bb78b9256b\_1506x713.webp)![](<../.gitbook/assets/8b7aac3c-285e-4bfd-b995-604e915ae128\_1459x812 (1).webp>)![](<../.gitbook/assets/d4fb7148-29bd-4e90-ad16-84005db87958\_1857x627 (1).webp>)
    7.  **Verify Node**
 
        Sau khi add Node vào dashboard các bạn sẽ nhìn thấy Node: “_Not Verify_”. Click vào “_Go to verification center_” và lần lượt verify từng cách một. Như tôi chỉ verify đc 4/6 cách.
 
-       Nếu thấy bài viết có ích, các bạn hãy Share bài viết để nhóm VNBNodes có động lực viết các bài viết có chất lượng cho cộng đồng.
+       <figure><img src="../.gitbook/assets/f5bc7603-b159-4bc8-8f15-47b27b4fdf52_1914x801.webp" alt=""><figcaption></figcaption></figure>
+
+       ![](../.gitbook/assets/2be75346-f0eb-4232-8eef-6997f2ff5bbf\_1928x801.webp)![](../.gitbook/assets/bef181ae-7b25-4889-b5c7-23fe427ea638\_1953x820.webp)![](../.gitbook/assets/8220f1f8-fe68-45a9-b2de-d9a6c86bb97d\_1849x749.webp)Nếu thấy bài viết có ích, các bạn hãy Share bài viết để nhóm VNBNodes có động lực viết các bài viết có chất lượng cho cộng đồng.
 
        Hãy tham gia Telegram để nhận được thông tin Testnet + bài viết nghiên cứu dự án sớm nhất: [https://t.me/Vnbnode](https://t.me/Vnbnode)
 
