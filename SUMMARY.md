@@ -2,21 +2,22 @@
 
 ## Mainnet
 
-* [Giới thiệu](README.md)
+* [Introduce (Giới thiệu)](README.md)
 
 ## TESTNET
 
-* [Erbie](testnet/erbie.md)
-* [Hướng dẫn chạy Node Erbie (SystemD)](testnet/huong-dan-chay-node-erbie-systemd.md)
+* [Erbie (SystemD)](testnet/erbie-systemd.md)
+* [Erbie (SystemD Vietnamese)](testnet/erbie-systemd-vietnamese.md)
+* [Roller - Dymension](testnet/roller-dymension.md)
 * [Mantrachain](testnet/mantrachain/README.md)
   * [Command](testnet/mantrachain/command.md)
-* [Guide to install AR io node](testnet/guide-to-install-ar-io-node.md)
-* [MUON: Hướng dẫn cài đặt Node Alice-v2](testnet/muon-huong-dan-cai-dat-node-alice-v2.md)
+* [Node AR](testnet/node-ar.md)
+* [Node MUON Alice-v2](testnet/node-muon-alice-v2.md)
 
 ***
 
-* [Guide to install Roller - Dymension](guide-to-install-roller-dymension.md)
+* [MOI (Guardian Node)](moi-guardian-node.md)
 
-## VM WARE
+## Software
 
-* [Cài Ubuntu Server lên VM WARE](vm-ware/cai-ubuntu-server-len-vm-ware.md)
+* [Cài Ubuntu Server lên VMware](software/cai-ubuntu-server-len-vmware.md)

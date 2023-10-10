@@ -1,8 +1,8 @@
-# Guide to install AR io node
+# Node AR
 
-tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
+Telegram: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
 
-X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
+X (Twitter): [https://x.com/vnbnode](https://x.com/vnbnode)
 
 Hệ sinh thái AR.IO cam kết phát triển các sản phẩm và giao thức để duy trì việc truy cập vào tính bền vững của dữ liệu kỹ thuật số, giúp cho permaweb trở nên dễ dàng tiếp cận với mọi người. Mạng lưới toàn cầu của các Gateway này kết nối người dùng đến dữ liệu, tệp tin, ứng dụng và trang web được lưu trữ vĩnh viễn trên mạng lưu trữ phi tập trung Arweave.
 

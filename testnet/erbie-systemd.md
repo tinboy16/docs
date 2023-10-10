@@ -1,10 +1,10 @@
-# Erbie
+# Erbie (SystemD)
 
-tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
+Telegram: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
 
-X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
+X (Twitter): [https://x.com/vnbnode](https://x.com/vnbnode)
 
-* Guide erbie official
+* Guide Erbie official
 
 https://www.erbie.io/docs/install/run/index.html
 

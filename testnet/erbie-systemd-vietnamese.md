@@ -1,8 +1,8 @@
-# Hướng dẫn chạy Node Erbie (SystemD)
+# Erbie (SystemD Vietnamese)
 
-tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
+Telegram: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
 
-X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
+X (Twitter) : [https://x.com/vnbnode](https://x.com/vnbnode)
 
 * CPU: Main frequency 2.9GHz, 4 cores or above CPU.
 * Memory: Capacity 8GB or more.

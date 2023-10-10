@@ -1,10 +1,10 @@
-# MUON: Hướng dẫn cài đặt Node Alice-v2
+# Node MUON Alice-v2
 
 <figure><img src="../.gitbook/assets/a9948547-2d11-4652-96da-f1721994c1e0_1510x861.webp" alt=""><figcaption></figcaption></figure>
 
-tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
+Telegram: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
 
-X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
+X (Twitter): [https://x.com/vnbnode](https://x.com/vnbnode)
 
 1.  **ROADMAP**
 
@@ -39,7 +39,7 @@ X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
     ```
     {% endcode %}
 
-    * Cài đặt package và thiết lập cài đặt Dockẻ từ kho lưu trữ chính:
+    * Cài đặt package và thiết lập cài đặt Docker từ kho lưu trữ chính:
 
     ```
     sudo apt update
@@ -60,8 +60,13 @@ X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
     <pre><code><strong>sudo systemctl status docker
     </strong></code></pre>
 
-    ![](../.gitbook/assets/293601cd-abf4-4f83-bf54-46466ea4d55b\_1559x347.webp)Ấn Q để thoát khỏi màn hình.
-3.  **CÀI ĐẶT MUON NODE**
+
+
+    <figure><img src="../.gitbook/assets/293601cd-abf4-4f83-bf54-46466ea4d55b_1559x347.webp" alt=""><figcaption></figcaption></figure>
+
+&#x20;             Ấn Q để thoát khỏi màn hình.
+
+1.  **CÀI ĐẶT MUON NODE**
 
     1.  Nếu đã cài đặt Muon Node thì cần Stop và remove node cũ
 
@@ -98,7 +103,7 @@ X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
         Nếu thấy hiện ra dòng thông tin như ảnh là ok.
 
     <figure><img src="../.gitbook/assets/794e7e3a-0a17-4339-a49b-b70473e68ef4_1515x182.webp" alt=""><figcaption></figcaption></figure>
-4. **THÊM NODE VÀO ALICE DASHBOARD**
+2. **THÊM NODE VÀO ALICE DASHBOARD**
    1.  Truy cập dashboard và click “Get Start”
 
        <figure><img src="../.gitbook/assets/87d57557-cee9-45b2-bec8-14a524f6cef0_2120x1257.webp" alt=""><figcaption></figcaption></figure>

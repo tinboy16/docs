@@ -1,8 +1,8 @@
-# Cài Ubuntu Server lên VM WARE
+# Cài Ubuntu Server lên VMware
 
-tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
+Telegram: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
 
-X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
+X (Twitter): [https://x.com/vnbnode](https://x.com/vnbnode)
 
 ### 1. Ubuntu Server
 
