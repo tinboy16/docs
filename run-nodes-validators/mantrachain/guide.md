@@ -1,10 +1,4 @@
----
-description: >-
-  https://www.mantrachain.io/ port 111, chain id: mantrachain-1
-  https://t.me/VNBnodegroup
----
-
-# Mantrachain
+# Guide
 
 Telegram: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
 
@@ -175,4 +169,10 @@ sudo systemctl restart mantrachaind
 sudo journalctl -fu mantrachaind -o cat
 ```
 
-tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
+Visit our communities:
+
+Telegram group chat: [https://VNBnodechat](https://t.me/+4aLsnP6JHhY4YTY1)
+
+Telegram news channel: [https://VNBnode\_news](https://t.me/+IpfWe\_pX7UlkMzY1)
+
+Web: [https://VNBnode.com](https://vnbnode.com)&#x20;

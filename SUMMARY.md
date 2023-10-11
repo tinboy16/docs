@@ -5,17 +5,22 @@
 * [Introduce](README.md)
 * [Giới thiệu](about-vnbnode/gioi-thieu.md)
 
-## Nodes / Validators
+## Run NODES/VALIDATORS
 
-* [MOI (Guardian Node)](nodes-validators/moi-guardian-node.md)
-* [Roller - Dymension](nodes-validators/roller-dymension.md)
-* [Mantrachain](nodes-validators/mantrachain/README.md)
-  * [Command](nodes-validators/mantrachain/command.md)
-* [Selfchain](nodes-validators/selfchain.md)
-* [Erbie (SystemD)](nodes-validators/erbie-systemd.md)
-* [Erbie (SystemD Vietnamese)](nodes-validators/erbie-systemd-vietnamese.md)
-* [Node AR](nodes-validators/node-ar.md)
-* [Node MUON Alice-v2](nodes-validators/node-muon-alice-v2.md)
+* [MOI (Guardian Node)](run-nodes-validators/moi-guardian-node.md)
+* [Roller - Dymension](run-nodes-validators/roller-dymension.md)
+* [Mantrachain](run-nodes-validators/mantrachain/README.md)
+  * [Guide](run-nodes-validators/mantrachain/guide.md)
+  * [Command](run-nodes-validators/mantrachain/command.md)
+* [Selfchain](run-nodes-validators/selfchain.md)
+* [Arkeo](run-nodes-validators/arkeo/README.md)
+  * [Guide](run-nodes-validators/arkeo/guide.md)
+  * [Command](run-nodes-validators/arkeo/command.md)
+* [Erbie](run-nodes-validators/erbie/README.md)
+  * [Guide systemd (ENG)](run-nodes-validators/erbie/guide-systemd-eng.md)
+  * [Guide systemd (Vietnamese)](run-nodes-validators/erbie/guide-systemd-vietnamese.md)
+* [Node AR](run-nodes-validators/node-ar.md)
+* [Node MUON Alice-v2](run-nodes-validators/node-muon-alice-v2.md)
 
 ## Software
 

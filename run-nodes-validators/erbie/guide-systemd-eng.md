@@ -1,14 +1,6 @@
-# Erbie (SystemD)
+# Guide systemd (ENG)
 
-Telegram: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
-
-X (Twitter): [https://x.com/vnbnode](https://x.com/vnbnode)
-
-* Guide Erbie official
-
-https://www.erbie.io/docs/install/run/index.html
-
-Port: 30303,8544
+_Port: 30303,8544_
 
 ## Automatic:
 
@@ -142,4 +134,4 @@ Telegram group chat: [https://VNBnodechat](https://t.me/+4aLsnP6JHhY4YTY1)
 
 Telegram news channel: [https://VNBnode\_news](https://t.me/+IpfWe\_pX7UlkMzY1)
 
-Web: [https://VNBnode.com](https://vnbnode.com)&#x20;
+Web: [https://VNBnode.com](https://vnbnode.com)

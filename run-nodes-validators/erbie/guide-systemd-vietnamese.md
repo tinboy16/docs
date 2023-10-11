@@ -1,13 +1,4 @@
-# Erbie (SystemD Vietnamese)
-
-Telegram: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
-
-X (Twitter) : [https://x.com/vnbnode](https://x.com/vnbnode)
-
-* CPU: Main frequency 2.9GHz, 4 cores or above CPU.
-* Memory: Capacity 8GB or more.
-* Hard Disk: Capacity 500GB or more.
-* Network bandwidth: 6M uplink and downlink peer-to-peer rate or higher
+# Guide systemd (Vietnamese)
 
 Trước khi khởi động bạn phải có private key, có thể dùng limino wallet để tạo và stake 700erb vào chính ví của mình.
 
