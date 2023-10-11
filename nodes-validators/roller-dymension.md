@@ -1,6 +1,6 @@
 # Roller - Dymension
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Guide to install Rollapps and Deploy NFT smart contract</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption><p>Guide to install Rollapps and Deploy NFT smart contract</p></figcaption></figure>
 
 Telegram: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
 
@@ -26,7 +26,7 @@ sudo apt update && sudo apt upgrade -y
 curl -L https://dymensionxyz.github.io/roller/install.sh | bash
 ```
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**: Check version of Roller​
 
@@ -40,7 +40,7 @@ roller version
 roller config init --interactive
 ```
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Choose froopyland</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption><p>Choose froopyland</p></figcaption></figure>
 
 **Enter your RollApp ID**
 
@@ -64,29 +64,29 @@ Name your native token as you want:&#x20;
 
 As default there are 2 DA layers: Celestia and Avail to select.
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>You can choose Celestia or Avail</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30) (1).png" alt=""><figcaption><p>You can choose Celestia or Avail</p></figcaption></figure>
 
 5.  Select your execution environment:
 
     As default is EVM or custom (RDK).
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 One you finished, it will return to you 3 address as below:
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Copy 3 addresses and go to [Discord Froopyland](https://discord.com/channels/956961633165529098/1143231362468434022) to claim faucets as below:
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 For Celestia address go to [celestia-faucet](https://discord.com/channels/956961633165529098/1128048548999610451):&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 After that check the balance in your wallets:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5**: Register for Roller
 
@@ -96,7 +96,7 @@ roller register
 
 Result should be:
 
-![](<../.gitbook/assets/image (6).png>)\
+![](<../.gitbook/assets/image (6) (1).png>)\
 
 
 **Step 6**: Run the Roller
@@ -115,11 +115,11 @@ roller run
 
 Result should be:
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Wait for about 10-15 minutes to active the Relayer. Once it’s active, you will see like this:
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 To escape : press combination: ctrl+b, then d.
 
@@ -135,7 +135,7 @@ rollapp_evm tx ibc-transfer transfer transfer channel-0 dym1g8sf7w4cz5gtupa6y62h
 
 You will be asked to confirm as below: Just type Y and go ahead.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 8**: Export keys
 
@@ -145,7 +145,7 @@ roller keys list
 
 The result should be like this:
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 To export private keys, use the following commands (one by one):
 
@@ -167,21 +167,21 @@ roller keys export my_celes_key
 
 The results should be like:
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 Save these private keys in your private location (do not let someone see it).
 
 **Step 9**: Import to Metamask
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 Copy and paste your roller-sequencer private key (from step 8) here:
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 10**: Add Roller network
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Network name**: Your Rollapp ID
 
@@ -193,11 +193,11 @@ Copy and paste your roller-sequencer private key (from step 8) here:
 
 Example: For Rollapp ID: **vnbnode\_1234-1**
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once finished, you will see it like this:
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 11**: Create a NFT smart contract
 
@@ -205,15 +205,15 @@ Access to [Remix](https://remix.ethereum.org/#lang=en\&optimize=false\&runs=200\
 
 Then you will see a page like this:
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 click on the contract folder to create new file:
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 Name it as: NFT.sol
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 in the content of NFT.sol, just copy and paste as below:
 
@@ -249,37 +249,37 @@ contract NFT is ERC721 {
 
 Example: \_name = vnbnode
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 12**: Comply the smart contract
 
 If you can see the green check, that means it’s ok.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 13**: Deploy and run Smart contract
 
 Select Injected Provider - Metamask as below:
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 it will popup metamask wallet, select the Account that you imported before and click next:
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select contract NFT.sol
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click the Deploy button and confirm transaction on metamask.
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 14**: Play with NFT
 
 Insert minTo and balanceOf, as your Metamask wallet. It’s time to play with NFT contract.
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 

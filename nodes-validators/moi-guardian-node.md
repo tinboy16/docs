@@ -137,11 +137,11 @@ sudo docker run --network host --rm -it -w /data -v $(pwd):/data sarvalabs/moipo
 
 `{ADDRESS}`: Chọn 1 trong 3 địa chỉ ví của bạn tại đây [MOI Voyage](https://voyage.moi.technology/)
 
-&#x20;![](../.gitbook/assets/image.png)
+&#x20;![](<../.gitbook/assets/image (41).png>)
 
 `{NODE_IDX}`: muốn khởi chạy Krama ID số bao nhiêu thì nhập số đó vào
 
-&#x20;![](<../.gitbook/assets/image (1).png>)
+&#x20;![](<../.gitbook/assets/image (1) (1).png>)
 
 {IP\_or\_Domain}: đây là địa chỉ IP WAN để kết nối ra bên ngoài, có thể thay thế bằng địa chỉ ddns. Khuyến khích dùng dịch vụ [NoIP](https://www.noip.com/).
 

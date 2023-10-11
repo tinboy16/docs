@@ -18,7 +18,7 @@ Cài đặt giao diện đồ họa cho Ubuntu Server.Như đã nói ở trên *
 
 * [https://www.ubuntu.com/download/server](https://www.ubuntu.com/download/server)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Phiên bản mới nhất cho tới thời điểm này là **Ubuntu Server 22.04**, chúng ta sẽ download và cài đặt phiên bản này.
 
