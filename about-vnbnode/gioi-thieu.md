@@ -2,9 +2,9 @@
 
 VNBnode là nhóm các nhà xác thực và nhà nghiên cứu chuyên nghiệp trong lĩnh vực blockchain. Chúng tôi có các thành viên từ nhiều nước khác nhau trên thế giới.
 
-Với kinh nghiệm hơn 10 năm trong lĩnh vực công nghệ thông tin, tham gia vào blockchain từ năm 2020. Chúng tôi đã xây dựng trung tâm dữ liệu của riêng mình với các máy chủ và cả các dịch vụ đám mây mạnh để hỗ trợ chạy nodes.
+Với kinh nghiệm hơn 10 năm trong lĩnh vực công nghệ thông tin, tham gia vào blockchain từ năm 2019. Chúng tôi đã xây dựng trung tâm dữ liệu của riêng mình với các máy chủ và dịch vụ đám mây mạnh để hỗ trợ chạy nodes.
 
-VNBnode sẵn sàng hỗ trợ cho các dự án qua các giai đoạn (từ test dev nội bộ, mạng thử nghiệm và  mạng chính thức). Các lập trình viên của chúng tôi có thể tạo dapps để hỗ trợ dự án trong quá trình thử nghiệm.
+VNBnode sẵn sàng hỗ trợ cho các dự án qua các giai đoạn (từ test dev nội bộ, mạng thử nghiệm và  mạng chính thức). Các lập trình viên của chúng tôi có thể tạo ra các dapps để hỗ trợ dự án trong quá trình thử nghiệm.
 
 VNBnode là đối tác đáng tin cậy cho các dự án blockchain.
 
