@@ -74,11 +74,11 @@ As default there are 2 DA layers: Celestia and Avail to select.
 
 One you finished, it will return to you 3 address as below:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Copy 3 addresses and go to [Discord Froopyland](https://discord.com/channels/956961633165529098/1143231362468434022) to claim faucets as below:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 For Celestia address go to [celestia-faucet](https://discord.com/channels/956961633165529098/1128048548999610451):&#x20;
 

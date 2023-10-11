@@ -1,8 +1,8 @@
 # Command
 
-tele nhóm: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
+Telegram: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
 
-X nhóm : [https://x.com/vnbnode](https://x.com/vnbnode)
+X (Twitter): [https://x.com/vnbnode](https://x.com/vnbnode)
 
 Key management Add New Wallet
 
