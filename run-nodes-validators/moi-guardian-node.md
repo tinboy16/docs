@@ -193,3 +193,25 @@ docker update --restart=unless-stopped <container_names>
 ```
 tail -f moi/moi/log/3*
 ```
+
+## Upgrading Moipod[**​**](https://docs.moi.technology/docs/guard/guardian-faq#2-stop-the-current-container)
+
+* Dừng các container moi
+
+```
+docker stop <container_name>
+```
+
+* Xóa tất cả container moi[**​**](https://docs.moi.technology/docs/guard/guardian-faq#3-remove-unnecessary-containers-and-images)
+
+```
+docker container prune
+```
+
+* Pull image version mới nhất về
+
+```
+docker container prune
+```
+
+* Chạy lại node [#start-the-guardian-node](moi-guardian-node.md#start-the-guardian-node "mention")
