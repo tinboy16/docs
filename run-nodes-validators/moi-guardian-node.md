@@ -4,9 +4,11 @@ coverY: 0
 
 # MOI (Guardian Node)
 
-Telegram: [https://t.me/VNBnodegroup](https://t.me/VNBnodegroup)
+Telegram Chat: [https://VNBnodechat](https://t.me/+4aLsnP6JHhY4YTY1)
 
-X (Twitter): [https://x.com/vnbnode](https://x.com/vnbnode)
+Telegram Channel: [https://VNBnode\_news](https://t.me/+IpfWe\_pX7UlkMzY1)
+
+Website: [https://VNBnode.com](https://vnbnode.com)&#x20;
 
 ## Cấu hình khuyến nghị
 
@@ -188,10 +190,10 @@ docker update --restart=unless-stopped <container_names>
 ```
 
 * Kiểm tra logs bên trong thư mục của node
-* moi/`moi`/log/3\*: thay đổi thư mục ở giữa `moi` thành tên `moi1` hoặc `moi2` để kiểm tra logs của các node `moi` khác
+* `moi`/log/3\*: thay đổi thư mục `moi` thành tên `moi1` hoặc `moi2` để kiểm tra logs của các node `moi` khác
 
 ```
-tail -f moi/moi/log/3*
+tail -f moi/log/3*
 ```
 
 ## Upgrading Moipod[**​**](https://docs.moi.technology/docs/guard/guardian-faq#2-stop-the-current-container)
